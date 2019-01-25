@@ -12,3 +12,5 @@ asignar(afunc);
  exportar();
    return 0;
 }
+
+//WHEN YOUR CREATE DDL, methods epxportd is asingar(callbackinterface), exportar and many other methods you add.
